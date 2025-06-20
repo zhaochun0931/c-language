@@ -1,0 +1,8 @@
+gcc -pthread thread-demo.c
+
+gcc -pthread thread-demo.c -o thread-demo
+./thread-demo
+
+
+
+  
